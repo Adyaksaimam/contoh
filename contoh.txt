@@ -1,2 +1,2 @@
 halo pak
-ini contoh
+ini contoh git remote
